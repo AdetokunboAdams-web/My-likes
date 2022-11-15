@@ -1,0 +1,29 @@
+/* my likes */
+
+.ul-class{
+  color: blue;
+}
+#ul{
+  color: red;
+}
+.ul-li{
+  color:yellow;
+}
+#unordered-li{
+  color:purple;
+}
+
+/* my dislikes */
+
+.ol-class{
+  color:green;
+}
+#ol{
+  color:navy;
+}
+.ol-li{
+  color: brown;
+}
+#ordered-li{
+  color: pink;
+}
